@@ -6,11 +6,11 @@ itch.io page: https://whozaifa.itch.io/cozy-catch
 game playable page: https://cozy-catch.vercel.app
 
 ## Instructions
-The Instructions are pretty simple, You can use the WASD keys or The arrow keys to move the bucket, it may seem hard at first but a word of advice imagine the grid top right side being the way ur facing when using the arrow or wasd keys.
-W/arrow up= Forward
-A/arrow left= Left
-D/arrow right= Right
-S/arrow back= Back
+- The Instructions are pretty simple, You can use the WASD keys or The arrow keys to move the bucket, it may seem hard at first but a word of advice imagine the grid top right side being the way ur facing when using the arrow or wasd keys.
+- W/arrow up= Forward
+- A/arrow left= Left
+- D/arrow right= Right
+- S/arrow back= Back
 
 #Screen Shots
 adding in a bit
