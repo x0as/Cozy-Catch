@@ -3,7 +3,7 @@ Cozy Catch is a simple game I made where you're supposed to Control a basket mov
 
 ## link:
 - itch.io page: https://whozaifa.itch.io/cozy-catch
-- direct game page: https://cozy-catch.vercel.app
+- direct game page: https://cozy-catch-whozaifa.vercel.app
 
 ## Instructions
 The Instructions are pretty simple, You can use the WASD keys or The arrow keys to move the bucket, it may seem hard at first but a word of advice imagine the grid top right side being the way ur facing when using the arrow or wasd keys.
