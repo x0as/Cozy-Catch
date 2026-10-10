@@ -13,7 +13,7 @@ The Instructions are pretty simple, You can use the WASD keys or The arrow keys 
 - S/arrow back= Back
 - You can also just use the buttons on the page it self to move the bucket around but the keys are reccomended.
 
-#Screen Shots
+# Screen Shots
 <img width="1492" height="692" alt="main" src="https://github.com/user-attachments/assets/570b2d9e-7cee-4cc9-aaf5-d7144351026d" />
 <img width="1492" height="738" alt="story" src="https://github.com/user-attachments/assets/c389f088-6b03-4970-b7b6-8e62a7f29982" />
 <img width="1493" height="736" alt="game" src="https://github.com/user-attachments/assets/42a296dc-1250-4aa2-aed6-5b9ad98f3d00" />
